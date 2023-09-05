@@ -9,8 +9,13 @@ function App() {
           <Navbar/>
           <Hero/>
         </div>
+<<<<<<< HEAD
         <About/>
         <Experience/> 
+=======
+        <About/>   
+        <Experience/>
+>>>>>>> main
         <Tech/>
         <Works/>
         <Feedbacks/>
